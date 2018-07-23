@@ -11,7 +11,7 @@ public class CommentsEverywhere {
         //This line will be ignores by the compiler
         //but people will (hoepfully) read it.
         //Anything after the // is ignored by Java.
-        System.out.println("This line prints just fine");
+        System.out.println("This line prints just fine"); // I can include a comment after the working code..
         //System.out.println("This line wont print");
         System.out.println("This line also prints jsut fine.");
     }
